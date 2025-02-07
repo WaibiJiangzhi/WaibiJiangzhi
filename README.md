@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🥰
+I'm a novice in both English and computer skills. Happy to join in the Github!
